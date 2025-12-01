@@ -11,7 +11,9 @@ public class Application4 {
     Member[] members = {
       new Member("user01", "pass01", 20, '남'),
       new Member("user02", "pass02", 25, '여'),
-      new Member("user03", "pass03", 30, '여')
+      new Member("user03", "pass03", 30, '여'),
+      new Member("user04", "pass04", 35, '남'),
+      new Member("user05", "pass05", 40, '여')
     };
 
 
